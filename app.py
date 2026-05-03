@@ -3,7 +3,11 @@ import pandas as pd
 from sklearn.model_selection import train_test_split
 from sklearn.linear_model import LogisticRegression
 
+<<<<<<< HEAD
 # Page setup 
+=======
+# Page setup
+>>>>>>> c2caa30 (Heart Disease Prediction Project)
 st.set_page_config(page_title="Heart Checker", page_icon="❤️", layout="centered")
 
 st.title("❤️ Heart Disease Prediction")
